@@ -1,4 +1,6 @@
 # MyKGERepo
 ## My first repo  
-- Date 2025-03-24 16:00 in Dahyang hall of DGU  
+- Date 2025-03-24 16:00 
     - Author: Gaeun Kim
+- Subject: OSS Practice  
+- Classroom: 다향관 103
