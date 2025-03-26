@@ -8,3 +8,6 @@
     - Git command
     - Git Basic
     - Git Workflow
+# OSSPrac
+fetch & merge
+A
