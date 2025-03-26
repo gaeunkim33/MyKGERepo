@@ -13,3 +13,5 @@ fetch & merge
 A  
 B  
 C  
+E  
+G  
