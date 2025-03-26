@@ -12,3 +12,5 @@
 # OSSPRAC  
 fetch & merge  
 A
+B  
+C  
