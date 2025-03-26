@@ -10,4 +10,5 @@
     - Git Workflow
 # OSSPrac
 fetch & merge
-A
+A  
+B  
